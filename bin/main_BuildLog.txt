@@ -1,0 +1,18 @@
+Output dir: C:\Users\Seb\Documents\C64\AlexsAdventure\bin
+parsing
+flex pass 1
+flex pass 2
+flex pass 3
+Output pass
+Writing prg file: C:\Users\Seb\Documents\C64\AlexsAdventure\bin\main.prg
+
+Memory Map
+----------
+Default-segment:
+  $0801-$080c Basic
+  $080e-$080d Basic End
+  $0810-$0812 Game Code
+  $0c00-$0bff Variables
+
+Writing Vice symbol file: C:\Users\Seb\Documents\C64\AlexsAdventure\bin\main.vs
+Writing Symbol file: main.sym

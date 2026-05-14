@@ -1,0 +1,6 @@
+.label ZERO_PAGE_ADDRESS=$20
+.label gameSetup=$810
+.label VARIABLES_ADDRESS=$c00
+.label main=$810
+.label GAME_CODE_ADDRESS=$810
+.label gameLoop=$810
