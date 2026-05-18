@@ -1,7 +1,7 @@
 
 // --------------- System Constants ---------------
 
-label PROCESSOR_PORT = $0001
+.label PROCESSOR_PORT = $0001
 
 // KERNAL Keyboard and text:
 .label KEY_F1 = $85
